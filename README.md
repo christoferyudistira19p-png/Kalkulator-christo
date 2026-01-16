@@ -1,2 +1,0 @@
-# Kalkulator-christo
-Kalkulator biasa
